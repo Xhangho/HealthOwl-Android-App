@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_73010ab6d9ec93b75f115120d74dfb97c955bc95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4fe630c64f7b18621fcdb427d35a4bf464420621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8dd745fdbd56132b222c256ee85ee0b5ddc62a13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e2ada2eaaf009cd13bc41c9d0c03566c4592b42e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_62780097783f179a17bee16a5dedd27df4e1bc3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1a0de8af2be7995a45ea2c349bf6b9937ef0bc37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_adfc423da4d1d5faf7c80dddd83c6d4f3c9e5ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_5466605ce2b676f8ddae54b6e8f2a16ff481545e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3445577e3019d91822c164be0605a1539100d89f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_1c26c25ab4884f9ae96d5dd0222cfc70e8690b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_5a3910fb80d97eb9ee2b41bba464b6304426d780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_b59b310ab63db0d38c8cd79bbe979aaac33ef852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_ef747375b85524914bb70b9a14e599c3fe839d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a707c5aa655bef899e3a4f293d231c3db4d7f40b">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d18c069f4d88101c856f5b550774dff388e19d5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6399450a17817e098df84a6237edd99d71868b4b">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_acc58e397642fc8d9be009692528a4e0d5e630d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_5bc3f91ff02bf53e5e94aeb3a9b84374ab6afc7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_366d28a293fb04a77d6dcd07f3a663c4235d230a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_0b845764b993154db020eb6f36dd35ed73843f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_fdf5c2cea46a725d5eba9cf80ceb2c61a20ac1d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/margot/Desktop/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_59d03c249dc07724a6c3f3541e30460bf07b3421/classes.dex" />
+    </item>
+
+</items>

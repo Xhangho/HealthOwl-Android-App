@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_group_details"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="m2y.centennial.healthowl.groups.GroupDetails">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_purple"
+        app:layout_scrollFlags="scroll|enterAlways"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:id="@+id/toolbarGroup2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_marginTop="?attr/actionBarSize"
+                  android:orientation="vertical"
+                  android:paddingLeft="30dp"
+                  android:paddingRight="30dp"
+                  android:paddingTop="20dp"
+                  android:paddingBottom="20dp"
+                  android:background="?attr/colorButtonNormal">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:orientation="vertical"
+                  android:paddingLeft="5dp"
+                  android:paddingTop="5dp"
+                  android:background="@android:color/background_light" android:padding="20dp">
+
+        <TextView
+        android:text="Group Name: "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView33"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_below="@+id/textView31"
+        android:layout_alignStart="@+id/textView31" />
+
+        <TextView
+        android:text="Abbrivation: "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView34"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_below="@+id/editText"
+        android:layout_alignStart="@+id/textView33"
+        android:layout_marginTop="12dp" />
+
+        <TextView
+        android:text="Number of members:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:id="@+id/textView35"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_below="@+id/editText2"
+        android:layout_alignStart="@+id/textView34" />
+
+        <TextView
+        android:text="List of members:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView35"
+        android:layout_alignStart="@+id/textView35"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView37"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/textView37"
+        android:layout_alignStart="@+id/textView37"
+        android:layout_marginTop="15dp"
+        android:id="@+id/listView_Patients"
+        android:layout_height="240dp" />
+
+    </LinearLayout>
+    </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
